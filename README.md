@@ -1,8 +1,7 @@
 [![SQIly.gif](https://s11.gifyu.com/images/SQIly.gif)](https://gifyu.com/image/SQIly)
 
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman Biplop</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<h1 align="center">Hi 👋, I'm Ashiqur Rahmen Biplop</h1>
+<h3 align="center">A passionate Front-End Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqur-r-biplop&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqur-r-biplop" /> </p>
 
@@ -15,7 +14,6 @@
 - 📫 How to reach me **Contactbybiplop@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqur-r-biplop&show_icons=true&locale=en" alt="ashiqur-r-biplop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur-r-biplop&" alt="ashiqur-r-biplop" /></p>
+
