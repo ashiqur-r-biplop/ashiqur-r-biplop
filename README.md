@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahmen Biplop</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqur-r-biplop&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqur-r-biplop" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ashiqur-r-biplop&label=Profile%20views&color=0e75b6&style=flat](https://i.imgur.com/l764oYZ.gif)" alt="ashiqur-r-biplop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@a_r_biplop" target="blank"><img src="https://img.shields.io/twitter/follow/@a_r_biplop?logo=twitter&style=for-the-badge" alt="@a_r_biplop" /></a> </p>
 
