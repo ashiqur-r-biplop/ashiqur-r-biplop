@@ -1,4 +1,4 @@
-[![SQIly.gif](https://s11.gifyu.com/images/SQIly.gif)](https://gifyu.com/image/SQIly)](https://i.imgur.com/l764oYZ.gifv)
+[![SQIly.gif](https://s11.gifyu.com/images/SQIly.gif)](https://gifyu.com/image/SQIly)
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahmen Biplop</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh.</h3>
