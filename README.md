@@ -15,8 +15,8 @@
 
 ## :mailbox: Reach me out
 
- [<a href="" align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/ashiqur-r-biplop/)</a>
- [<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/ashiqur-r-biplop/)
+ [<a href="" align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Behance.png">](https://www.behance.net/ashiqur-r-biplop)</a>
+ [<img height="75" src="https://i.ibb.co/MkLPMvs/Discord.png">](https://discord.gg/ashiqurrahmanbiplop)
  
   <a  href="https://www.linkedin.com/in/ashiqur-r-biplop"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
   <a href="https://www.facebook.com/ashiqur-r-biplop/"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
@@ -50,8 +50,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbtahiHasan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbtahiHasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ashiqur-r-biplop&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbtahiHasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbtahiHasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
