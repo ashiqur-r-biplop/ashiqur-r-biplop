@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=ashiqur-r-biplop&icon=6&color=1)](https://visitcount.itsvg.in)
+</br>
 [![SQIly.gif](https://s11.gifyu.com/images/SQIly.gif)](https://gifyu.com/image/SQIly)
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahmen Biplop</h1>
@@ -53,6 +55,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashiqur-r-biplop&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
