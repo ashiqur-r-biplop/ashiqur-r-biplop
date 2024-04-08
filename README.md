@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/@a_r_biplop" target="blank"><img src="https://img.shields.io/twitter/follow/@a_r_biplop?logo=twitter&style=for-the-badge" alt="@a_r_biplop" /></a> </p>
 <h3>My website : <a href="https://portfolio-ashiqur-rahman-biplop.netlify.app" rel="follow" >Visit Now</a></h3>
 - 📫 How to reach me **contactbybiplop@gmail.com**
-<!--  
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ashiqur-r-biplop) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashiqurrahmanbiplop) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BBTT.biplop22/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohammad_ashiqur_rahman_biplop/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashiqur-r-biplop/) 
 <br />
